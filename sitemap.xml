@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- صفحه اصلی فارسی -->
   <url>
-    <loc>https://ali-akbari-af.github.io/</loc>
+    <loc>https://ali-akbari-af.github.io/index.html</loc>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- صفحه اصلی انگلیسی -->
   <url>
-    <loc>https://ali-akbari-af.github.io/en/</loc>
+    <loc>https://ali-akbari-af.github.io/en.html</loc>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>1.0</priority>
   </url>
+
 </urlset>
